@@ -1,7 +1,8 @@
+//Feito por: Filipe Estopa Tavares Santos Felipe Gabriel de Carvalho
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h> // Necessário para poder usar acentuação nas palavras
-#include <windows.h> // Necessário para a função Sleep()
+#include <locale.h> // NecessÃ¡rio para poder usar acentuaÃ§Ã£o nas palavras
+#include <windows.h> // NecessÃ¡rio para a funÃ§Ã£o Sleep()
 #include "pizza.h"  // Header com o CRUD da pizza
 #include "ingredientes.h" // Header com o CRUD do ingredientes
 
@@ -15,7 +16,7 @@ int main(){
 
     setlocale(LC_ALL, ""); // Configura a localidade de acordo com o sistema operacional para poder usar acentos
     Sleep(2000); // Aguarda 2 segundos
-    system("cls"); //Limpa a tela do usuário
+    system("cls"); //Limpa a tela do usuÃ¡rio
 
 //Menu da pizzaria
     do {
@@ -32,7 +33,7 @@ int main(){
     printf("10. Salvar Dados \n");
     printf("11. Importar Dados\n");
     printf("0. Sair\n");
-    printf("Escolha uma opção: ");
+    printf("Escolha uma opÃ§Ã£o: ");
     scanf("%d", &opcao);
 //Condicional dos menus
     switch (opcao) {
@@ -75,7 +76,7 @@ int main(){
             printf("Saindo...\n");
             break;
         default:
-            printf("Opção inválida.\n");
+            printf("OpÃ§Ã£o invÃ¡lida.\n");
     }
     } while (opcao != 0);
 }
