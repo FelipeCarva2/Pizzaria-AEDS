@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1733185908 source:c:\users\filipe estopa\desktop\trabalho pizzaria_aeds\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733185501 c:\users\filipe estopa\desktop\trabalho pizzaria_aeds\pizzaria\pizza.h
+	"ingredientes.h"
+
+1733185035 c:\users\filipe estopa\desktop\trabalho pizzaria_aeds\pizzaria\ingredientes.h
+
+1733185501 source:c:\users\filipe estopa\desktop\trabalho pizzaria_aeds\pizzaria\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pizza.h"
+
+1733183921 source:c:\users\filipe estopa\desktop\trabalho pizzaria_aeds\pizzaria\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingredientes.h"
+
+1733183922 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzaria\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingredientes.h"
+
+1733185036 c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzaria\ingredientes.h
+
+1733185910 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733185502 c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzaria\pizza.h
+	"ingredientes.h"
+
+1733186042 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzaria\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pizza.h"
+
+1733353059 source:c:\users\filipe estopa\desktop\ghfgh\pizzaria\pizzaria\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingredientes.h"
+
+1733353059 c:\users\filipe estopa\desktop\ghfgh\pizzaria\pizzaria\ingredientes.h
+
+1733356468 source:c:\users\filipe estopa\desktop\ghfgh\pizzaria\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733356383 c:\users\filipe estopa\desktop\ghfgh\pizzaria\pizzaria\pizza.h
+	"ingredientes.h"
+
+1733356268 source:c:\users\filipe estopa\desktop\ghfgh\pizzaria\pizzaria\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pizza.h"
+
+1733414982 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzariafinal\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingredientes.h"
+
+1733418269 c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzariafinal\ingredientes.h
+
+1733418646 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzariafinal\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pizza.h"
+
+1733418269 c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzariafinal\pizza.h
+	"ingredientes.h"
+
+1733417784 source:c:\users\felipe carvalho\downloads\correÇÂo aos apres\pizzariafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"pizza.h"
+	"ingredientes.h"
+

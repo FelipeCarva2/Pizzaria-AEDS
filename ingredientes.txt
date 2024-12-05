@@ -1,0 +1,7 @@
+1;salsa;1,20
+2;queijo;0,98
+3;champion;3,55
+4;tomate;2,00
+5;azeitona;2,32
+6;frango;3,32
+7;bacon;3,20

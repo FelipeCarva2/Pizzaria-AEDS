@@ -1,0 +1,2 @@
+1;Da casa;G;60,00;queijo|0,00,98|0,00,mussarela|2,00,22|2,00
+2;Mexicana;M;32,32;queijo|0,98,champion|3,55,azeitona|2,32,frango|3,32
